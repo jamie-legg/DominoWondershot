@@ -4,7 +4,9 @@
 
 ##Node.js is required for this to work.
 
-##`git clone https://github.com/jamie-legg/DominoWondershot`
-##`npm install`
-##`node domino.js`
+##1. `git clone https://github.com/jamie-legg/DominoWondershot`
+
+##2. `npm install`
+
+##3. `node domino.js`
 
